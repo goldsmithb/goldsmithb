@@ -2,6 +2,7 @@
 - 👀 I’m interested in starting my career as a developer.
 - 🌱 I’m currently learning the fundamentals of web development.
 - 📫 Yuo can reach me at my email: bradleygoldsmith14@gmail.com.
+- --> Visit my personal site to learn more about me, get in touch, or view my resume.
 
 On my github you will find various projects I have done, both in my free time and as part of coursework at the University of Chicago.
 Here is a quick guide to my most relevant projects:
