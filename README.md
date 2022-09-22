@@ -6,9 +6,9 @@
 
 On my github you will find various projects I have done, both in my free time and as part of coursework at the University of Chicago.
 Here is a quick guide to my most relevant projects:
-* one
-* two
-* three
+* [myTetris](https://github.com/goldsmithb/myTetris): a tetris clone I wrote for fun and learning!
+* [the odin project css project](https://github.com/goldsmithb/css-foundations-project): a sample homepage for a company written as part of the odin project curriculum.
+* [personal website](https://github.com/goldsmithb/personal_site): my personal website.
 
 Thank you to all the wonderful programmers I have collaborated with, past and future. 
 
