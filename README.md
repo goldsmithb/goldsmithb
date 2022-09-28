@@ -1,3 +1,4 @@
+## Hello!
 - 👋 Hi, I’m @goldsmithb
 - 👀 I’m starting my career as a developer.
 - 🌱 I’m currently learning the fundamentals of web development (front and back end and accessible web development) and building up my software engineering skills with personal projects and self study. My main learning resources at the moment are The Odin Project and *Think Like a Programmer* by V. Anton Spraul.
@@ -5,6 +6,7 @@
 <!--- 
 Visit my personal site to learn more about me, get in touch, or view my resume.
 --->
+## My Work
 On my github you will find various projects I have done, both in my free time and as part of coursework at the University of Chicago.
 Here is a quick guide to my most relevant projects:
 * [myTetris](https://github.com/goldsmithb/myTetris): a tetris clone I wrote for fun and learning!
