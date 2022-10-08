@@ -11,8 +11,8 @@ Visit my personal site to learn more about me, get in touch, or view my resume.
 On my github you will find various programming projects I have done, both in my free time and as part of coursework at the University of Chicago.
 Here is a quick guide to my most relevant projects:
 * [myTetris](https://github.com/goldsmithb/myTetris): a tetris clone I wrote for fun and learning!
-* [the odin project css project](https://github.com/goldsmithb/css-foundations-project): a sample homepage for a company written as part of the odin project curriculum.
 * [browser rock paper scissors](https://github.com/goldsmithb/rock_paper_scissors), which you can play [here](https://goldsmithb.github.io/rock_paper_scissors/)
+* [the odin project css project](https://github.com/goldsmithb/css-foundations-project): a sample homepage for a company.
 <!---
 * [personal website](https://github.com/goldsmithb/personal_site): my personal website.
 --->
