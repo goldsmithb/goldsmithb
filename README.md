@@ -12,7 +12,7 @@ On my github you will find various programming projects I have done, both in my 
 Here is a quick guide to my most relevant projects:
 * [myTetris](https://github.com/goldsmithb/myTetris): a tetris clone I wrote for fun and learning!
 * [browser rock paper scissors](https://github.com/goldsmithb/rock_paper_scissors), which you can play [here](https://goldsmithb.github.io/rock_paper_scissors/)
-* [Wretch-A-Sketch drawing toy](https://goldsmithb.github.io/wretch_a_sketch/)
+* [Wretch-A-Sketch drawing toy](https://github.com/goldsmithb/wretch_a_sketch/), which you can play with [here](https://goldsmithb.github.io/wretch_a_sketch/)
 * [the odin project css project](https://github.com/goldsmithb/css-foundations-project): a sample homepage for a company.
 <!---
 * [personal website](https://github.com/goldsmithb/personal_site): my personal website.
