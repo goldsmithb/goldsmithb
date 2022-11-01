@@ -6,6 +6,7 @@
 ## My Work
 On my github you will find some projects I have done, both in my free time and as part of coursework at the University of Chicago.
 Here is a quick guide to my most relevant projects:
+* [I/O Local Demo](https://github.com/goldsmithb/io_local_demo): a frontend demo site built for a startup using React.js
 * [myTetris](https://github.com/goldsmithb/myTetris): a tetris clone I wrote for fun and learning!
 * [browser rock paper scissors](https://github.com/goldsmithb/rock_paper_scissors), which you can play [here](https://goldsmithb.github.io/rock_paper_scissors/)
 * [Wretch-A-Sketch drawing toy](https://github.com/goldsmithb/wretch_a_sketch/), which you can play with [here](https://goldsmithb.github.io/wretch_a_sketch/)
