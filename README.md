@@ -1,19 +1,20 @@
 ## Hello!
-- 👋 Hi, I’m @goldsmithb
+- 👋 Hi, I’m Bradley
 - 👀 I’m starting my career as a developer.
 - 📫 You can reach me at my email: bradleygoldsmith14@gmail.com.
 
 ## My Work
 On my github you will find some projects I have done, both in my free time and as part of coursework at the University of Chicago.
-Here is a quick guide to my most relevant projects:
+Here is a brief list of recent projects:
 * [I/O Local Demo](https://github.com/goldsmithb/io_local_demo): a frontend demo site built for a startup using React.js
   * [Check out the demo Site](https://goldsmithb.github.io/gh_pages_io_local/)
   * ([view the gh pages build source](https://github.com/goldsmithb/gh_pages_io_local))
 * [myTetris](https://github.com/goldsmithb/myTetris): a tetris clone I wrote for fun and learning!
+<!---
 * [browser rock paper scissors](https://github.com/goldsmithb/rock_paper_scissors), which you can play [here](https://goldsmithb.github.io/rock_paper_scissors/)
 * [Wretch-A-Sketch drawing toy](https://github.com/goldsmithb/wretch_a_sketch/), which you can play with [here](https://goldsmithb.github.io/wretch_a_sketch/)
 * [the odin project css project](https://github.com/goldsmithb/css-foundations-project): a sample homepage for a company.
-<!---
+
 * [personal website](https://github.com/goldsmithb/personal_site): my personal website.
 If you are interested in my humanities projects, you can check them out at the following links:
 * [Obscurity, Secrecy, and Authority: Transformations in English Alchemy in the late Seventeenth Century](https://drive.google.com/file/d/15mzZ8It20QNKF8VFikTsOEUhPAfj3jjO/view?usp=sharing)
