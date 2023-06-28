@@ -1,6 +1,6 @@
 ## Hello!
 - 👋 Hi, I’m Bradley
-- :coffee: I am a fullstack Java Developer
+- :coffee: I am a fullstack developer working at TD Securities.
 - :statue_of_liberty: NYC based
 - 📫 Get in touch by email: bradleygoldsmith14@gmail.com.
 
