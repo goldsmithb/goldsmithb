@@ -1,11 +1,14 @@
 ## Hello!
 - 👋 Hi, I’m Bradley
-- :coffee: I am a fullstack developer working at TD Securities.
+- :coffee: I am a fullstack developer working at TD Securities. Current team's techstack: Golang, Envoy Proxy, Javascript, React.js, Cassandra DB.
 - :statue_of_liberty: NYC based
 - 📫 Get in touch by email: bradleygoldsmith14@gmail.com.
 
 ## My Work
-Check out some of my project repos:
+* [White Owl Records Company Website and Blog](whiteowlrecords.xyz): Official website for White Owl Records, an independent record label based in Brooklyn, NY. This brutalist site includes a page for listening to music released by the label and a blog to read content created by the White Owl team.
+  * I worked with the label to create this website from scratch, architecting the website within a CI/CD production environment that allows the content to be managed by content creators, totally independent of IT infrastructure needs. From the client's perspective, they enter the content into the custom-built sanity dashboard and their site is updated within minutes--it just works!
+  * I leveraged webhooks, the Sanity.io Content Management System's Content Cloud API, Netlify's web hosting services, GitHub's version control services, and GoDaddy Domain management to create a continuous development, continuous integration pipeline that vastly simplifies site maintenance.
+  * I chose the technologies thoughtfully, aiming for 0 infrastructure costs and maximizing site speed and accessibility.
 * [Todo App deployed on a CI/CD Pipeline](https://github.com/landa44/todoTeam2): a simple CRUD app in an impressive production environment. The complete app is a Java Spring Boot backend API hooked up to an AWS mySQL database and a Node/React frontend application, containerized by Docker and deployed with AWS. All of it--the CI/CD pipeline, cloud infrastructure, network architecture, as well as the web application itself--were a joint effort with my team from Strategio.
 * [I/O Local Demo](https://github.com/goldsmithb/io_local_demo): a frontend demo site built for a startup using React.js
   * [Check out the demo Site](https://goldsmithb.github.io/gh_pages_io_local/)
@@ -25,8 +28,9 @@ Checkout some of my history research projects:
 * [History Fades to Fable: The Many Lives of the Croton Aqueduct](https://docs.google.com/document/d/e/2PACX-1vQWaolkK0KckwGnYzIlsUITMRC2Mxtdr5lLWJAGYzcUEj590w7j5q_9CW1yhB0YXQ/pub)
 
 ## About Me
-I currently live in my hometown of Tarrytown, New York and am an early career software developer. 
-I graduated from the University of Chicago in 2021 with a major in the History and Philosophy of Science and a minor in Computer Science.
+I currently live in New York, New York and work as a junior software developer.
+I graduated with honors from the University of Chicago in 2021 with a major in the History and Philosophy of Science and a minor in Computer Science.
+I lived in Vienna, Austria for one year working as an English teacher with Fulbright Austria.
 
 <!--While at the University of Chicago, I accomplished a number of exciting things; I received honors on my bachelor’s thesis, a grant to write a creative non-fiction essay based on historical research, a grant to learn German abroad, and countless opportunities to collaborate with my peers in both humanities research and software projects.
 
