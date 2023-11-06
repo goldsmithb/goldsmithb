@@ -9,6 +9,8 @@
   * I worked with the label to create this website from scratch, architecting the website within a CI/CD production environment that allows the content to be managed by content creators, totally independent of IT infrastructure needs. From the client's perspective, they enter the content into the custom-built sanity dashboard and their site is updated within minutes--it just works!
   * I leveraged webhooks, the Sanity.io Content Management System's Content Cloud API, Netlify's web hosting services, GitHub's version control services, and GoDaddy Domain management to create a continuous development, continuous integration pipeline that vastly simplifies site maintenance.
   * I chose the technologies thoughtfully, aiming for 0 infrastructure costs and maximizing site speed and accessibility.
+  * I created design mocks and implemented the design aesthetic desired by the clients.
+  * View the repository [here](https://github.com/goldsmithb/whiteowlrecords).
 * [Todo App deployed on a CI/CD Pipeline](https://github.com/landa44/todoTeam2): a simple CRUD app in an impressive production environment. The complete app is a Java Spring Boot backend API hooked up to an AWS mySQL database and a Node/React frontend application, containerized by Docker and deployed with AWS. All of it--the CI/CD pipeline, cloud infrastructure, network architecture, as well as the web application itself--were a joint effort with my team from Strategio.
 * [I/O Local Demo](https://github.com/goldsmithb/io_local_demo): a frontend demo site built for a startup using React.js
   * [Check out the demo Site](https://goldsmithb.github.io/gh_pages_io_local/)
