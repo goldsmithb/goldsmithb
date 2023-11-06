@@ -5,7 +5,7 @@
 - 📫 Get in touch by email: bradleygoldsmith14@gmail.com.
 
 ## My Work
-* [White Owl Records Company Website and Blog](whiteowlrecords.xyz): Official website for White Owl Records, an independent record label based in Brooklyn, NY. This brutalist site includes a page for listening to music released by the label and a blog to read content created by the White Owl team.
+* [White Owl Records Company Website and Blog](https://whiteowlrecords.xyz): Official website for White Owl Records, an independent record label based in Brooklyn, NY. This brutalist site includes a page for listening to music released by the label and a blog to read content created by the White Owl team.
   * I worked with the label to create this website from scratch, architecting the website within a CI/CD production environment that allows the content to be managed by content creators, totally independent of IT infrastructure needs. From the client's perspective, they enter the content into the custom-built sanity dashboard and their site is updated within minutes--it just works!
   * I leveraged webhooks, the Sanity.io Content Management System's Content Cloud API, Netlify's web hosting services, GitHub's version control services, and GoDaddy Domain management to create a continuous development, continuous integration pipeline that vastly simplifies site maintenance.
   * I chose the technologies thoughtfully, aiming for 0 infrastructure costs and maximizing site speed and accessibility.
