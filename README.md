@@ -3,6 +3,7 @@
 - :coffee: I am a fullstack developer working at TD Securities. Current team's techstack: Golang, Envoy Proxy, Javascript, React.js, and Cassandra DB
 - :statue_of_liberty: NYC based
 - 📫 Get in touch by email: bradleygoldsmith14@gmail.com
+- :clipboard: View my resume (TODO)
 
 ## My Work
 * [White Owl Records Company Website and Blog](https://whiteowlrecords.xyz): Official website for White Owl Records, an independent record label based in Brooklyn, NY. This brutalist site includes a page for listening to music released by the label and a blog to read content created by the White Owl team.
