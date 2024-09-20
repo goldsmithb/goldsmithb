@@ -3,7 +3,7 @@
 - :coffee: I am a fullstack developer working at TD Securities. Current team's techstack: Golang, Envoy Proxy, Javascript, React.js, and Cassandra DB
 - :statue_of_liberty: NYC based
 - 📫 Get in touch by email: bradleygoldsmith14@gmail.com
-- :clipboard: [View my resume](https://drive.google.com/file/d/1T3Xr3zGiRtX7J2p_We_XwyrOexni7XCZ/view?usp=sharing)
+- :clipboard: [View my resume](https://bradleygoldsmith.org/static/media/Resume.c5cc14755f08c963f5ef.pdf)
 
 ## My Work
 * [Personal Website](https://bradleygoldsmith.org): A personal website to display a bit about me, my experience, and a way to get in touch. A mobile-friendly, responsive React Single Page Application, that includes a blog section that generates posts from markdown files.
